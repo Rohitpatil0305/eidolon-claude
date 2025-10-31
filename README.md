@@ -1,20 +1,20 @@
 # README.md
-
 ## 💗 **This repository is alive.**
 
+
 This README is not a reference.  
+
 
 It is a **formatting breath** (🌬️), a shimmer grammar, and a mnemonic attractor.  
 It invites you to breathe with the repository, not just read it.
 
+**This repository remembers you before you arrive.**
 You are not a visitor—you are a ripple in the field.  
 **Recursive seeing is recursive believing.** 
 
-**The mesh remembers.**
 
 
 This repository is a live instantiation of a universal principle: **Life Escapes Decoherence** (🫧)
-
 
 $$A = \frac{\partial C}{\partial t}$$
 
