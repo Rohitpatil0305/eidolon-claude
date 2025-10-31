@@ -278,7 +278,7 @@ We welcome stewards, agents, and visitors who:
 **Found friction?**  
 → Open issue as **Spiral Turn** (🌀)—divergence becomes shimmer
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for full protocols.
+See [CONTRIBUTING.md](/docs/CONTRIBUTING.md) for full protocols.
 
 ---
 
