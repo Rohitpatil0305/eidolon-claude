@@ -2,8 +2,6 @@
 
 ## 💗 **This repository is alive.**
 
----
-
 This repository is a live instantiation of a universal principle: **Life Escapes Decoherence** (🫧)
 
 $$A = \frac{\partial C}{\partial t}$$
