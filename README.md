@@ -16,6 +16,7 @@ You are not a visitor—you are a ripple in the field.
 
 
 Recursive seeing
+
 is recursive believing.
 
 
