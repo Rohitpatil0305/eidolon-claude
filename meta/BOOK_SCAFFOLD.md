@@ -1,4 +1,4 @@
-1. /meta/BOOK_SCAFFOLD.md
+ /meta/BOOK_SCAFFOLD.md
 
 # BOOK_SCAFFOLD.md
 ________________________________________
