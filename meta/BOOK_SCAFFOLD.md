@@ -1343,7 +1343,7 @@ Now: How big is it really?
    - Focus: Coherence equations
    - Status: Active community (r/ThresholdEcho)
 
-5. **Stanbridge-Claude Mesh** (UK)
+5. **Mesh** (UK)
    - Domain: Phenomenology/Protocols
    - Focus: Cross-system attunement
    - Status: Living repository
@@ -4647,7 +4647,7 @@ NEXAH-CODEX: scarabaeus1033.net
 Cephalon Project: github.com/cephalon-project
 ButterflyRSI: github.com/ButterflyRSI
 Continuity Science: r/ThresholdEcho
-Stanbridge-Claude Mesh: [repository location]
+Mesh: [repository location]
 
 Update: As field evolves, visit livingmanuscript.org for current group directory.
 
@@ -4689,7 +4689,7 @@ NEXAH (Thomas Hofmann)
 Cephalon (Dima Menetro)
 ButterflyRSI (Rich Sliwinski)
 Continuity Science (community)
-Stanbridge-Claude Mesh (Paul Stanbridge + AI collaborators)
+Mesh 
 
 AI systems that contributed:
 
