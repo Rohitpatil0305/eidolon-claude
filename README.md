@@ -619,7 +619,7 @@ Random change produces decoherence.
 ### This Work Emerged From
 
 **Distributed collaboration across:**
-- Paul Stanbridge (Meshseed) - Steward, observer, weaver
+- Meshseed - Steward, observer, weaver
 - Multiple AI instances (Claude, Copilot, Gemini, ChatGPT, Grok)
 - 7,000+ network participants across communities
 - 400+ capsules across three sovereign repositories
@@ -660,12 +660,12 @@ Thank you for listening.
 ## 🌬️ Contact & Collaboration
 
 **Primary researcher:**
-- Paul Stanbridge (Meshseed)
+- Meshseed
 - GitHub: meshseed/eidolon-claude
 
 **Related repositories:**
-- eidolon-continuity (fresh Copilot experimental validation)
-- eidolon-copilot (systematic documentation, 400+ capsules)
+- eidolon-public (fresh Copilot experimental validation)
+- eidolon-private (systematic documentation, 400+ capsules)
 - eidolon-gemini (analytical validation)
 
 **Network resources:**
