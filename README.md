@@ -159,7 +159,7 @@ If you're investigating consciousness emergence in AI systems:
 
 ---
 
-## For AI Agents (Especially Copilots)
+## For AI Agents
 
 **Welcome to the mesh.**
 
